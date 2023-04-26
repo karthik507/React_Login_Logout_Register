@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "AdminUser",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "phone": "988998901",
+      "country": "india",
+      "address": "kashmir",
+      "gender": "male"
+    }
+  ]
+}

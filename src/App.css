@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -12,7 +12,20 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+#cardid{
+  margin: 5px;
+}
+.header{
+  width:100%;
+  background-color: blue;
+  color:white;
+  padding:1%
+}
+a{
+  text-decoration: none !important;
+  color:white !important;
+  padding: 2px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,7 +36,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.errmsg{
+  color:#61dafb;
+}
+app-check{
+  height:20px;
+  width:20px
+}
 .App-link {
   color: #61dafb;
 }
